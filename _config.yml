@@ -1,21 +1,20 @@
 # Site settings
-title: Alex Lockhart
-description: A blog about me.
+title: Firas Cheaib
+description: Portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Alex Lockhart
-user_subtitle: Software Developer
-user_description: Full Stack Software Developer from Halifax, NS
-email: salexlockhart@gmail.com
-twitter_username: salexlockhart
-github_username:  salockhart
-linkedin_username:  salockhart
+username: Firas Cheaib
+user_subtitle: Software Engineer and Aspiring Game Developer
+user_description: Software Engineering Bachelor Student
+email: firascheaib@gmail.com
+github_username:  firsou
+linkedin_username:  firsou
 
 # Google-analytics
 google-analytics:
-  id: "UA-98748109-1"
+  id: "UA-115360692-1"
 
 sass:
   sass_dir: css
