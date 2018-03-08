@@ -5,7 +5,7 @@ author: Firas Cheaib
 categories: experience
 tags: [Arduino, Android, Gradle, C, Java]
 image: /img/arduino-smartcar.png
-image_alt: Squiggle Park
+image_alt: Arduino Smartcar
 ---
 
 Arduino Smartcar is an embedded system written for Arduino coupled with an Android Application.
