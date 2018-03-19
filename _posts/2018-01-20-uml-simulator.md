@@ -7,7 +7,7 @@ tags: [Javascript, node.js, jQuery, socket.io, express, bootstrap]
 image: /img/UML-simulator.png
 image_alt: SimulatorJS
 code: https://github.com/firsou/SimulatorJS
-demo: https://gunray.skip.chalmers.se:3000
+demo: http://gunray.skip.chalmers.se:3000
 ---
 
 SimulatorJS is a distributed UML Diagram Simulator developed as part of a research project at 
