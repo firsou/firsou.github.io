@@ -18,6 +18,7 @@ the University of Gothenburg/Chalmers University.
 	- Upload your diagrams using JSON Files
 	- Play animations simultaneously on several devices
 	- Chat Room
+	
 ### Diagrams
 
 It is capable of simulating and distributing three types of UML Diagrams:
