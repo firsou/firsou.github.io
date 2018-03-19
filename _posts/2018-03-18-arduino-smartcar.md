@@ -16,9 +16,6 @@ It is a fully automated miniature vehicle that also comprises manual driving mod
 
 Written in the Java, the app first uses the Bluetooth interface of your Android phone to connect to the car. You are then greeted by a home screen comprised of a default control method (joystick), a radar, an Autonomous Mode switch as well as a button leading to the Settings window.
 
-### Arduino Sketch
-
-
 ### Hardware
 
 The car itself makes use of several hardware components, most importantly:
