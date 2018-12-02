@@ -13,6 +13,7 @@ demo: https://mega.nz/#!14JBkDAQ!c3rlLSPRzUFTHyNGN0IR-CVahDgWedt-keFMEXKU67o
 
 Escape The Room is my first Unreal Engine 4 project, developed as part of Ben Tristem's C++ Game Development course on Udemy.
 It is a simple game, where the player must find a way to leave the room he finds himself in.
+Watch a short video of the game [here](https://www.youtube.com/watch?v=a7o7bNX7Ppc)
 
 ### Controls
 
